@@ -4,7 +4,11 @@
 
 I will perform data exploration, modeling, and analysis on the mushroom dataset in order to make predictions on specific data values based on modeling information to determine what characteristics classify a mushroom as either edible or poisonous.
 
+# Project File Links
+
 Link to Coding Project file: https://github.com/davidwan08/Mushroom-Classification-Modeling-and-Analysis-Project/blob/main/Mushroom_Classification_Project_Data_Exploration_and_Modeling.ipynb
+
+Link to Project Slide Deck: https://github.com/davidwan08/Mushroom-Classification-Modeling-and-Analysis-Project/blob/main/Mushroom%20Identification%20Project%20Presentation%20(2).pptx?raw=true
 
 # Summary/Conclusion
 
