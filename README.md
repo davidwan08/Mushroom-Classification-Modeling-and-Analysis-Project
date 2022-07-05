@@ -11,6 +11,10 @@
 
 ### Project File Links
 
+![mushrooms.csv](https://github.com/davidwan08/Mushroom-Classification-Modeling-and-Analysis-Project/blob/main/mushrooms.csv)
+
+> This is the link to the mushrooms dataset.
+
 ![Mushroom Classification Project](https://github.com/davidwan08/Mushroom-Classification-Modeling-and-Analysis-Project/blob/main/Mushroom_Classification_Project_Data_Exploration_and_Modeling.ipynb)
 
 > This is the link to the project file.
