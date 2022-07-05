@@ -8,7 +8,7 @@ I will perform data exploration, modeling, and analysis on the mushroom dataset 
 
 Link to Coding Project file: https://github.com/davidwan08/Mushroom-Classification-Modeling-and-Analysis-Project/blob/main/Mushroom_Classification_Project_Data_Exploration_and_Modeling.ipynb
 
-Link to Project Slide Deck: https://github.com/davidwan08/Mushroom-Classification-Modeling-and-Analysis-Project/blob/main/Mushroom%20Identification%20Project%20Presentation%20(2).pptx?raw=true
+Link to Project Slide Deck: https://github.com/davidwan08/Mushroom-Classification-Modeling-and-Analysis-Project/blob/main/Mushroom%20Identification%20Project%20Presentation.pdf
 
 # Summary/Conclusion
 
